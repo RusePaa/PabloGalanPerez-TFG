@@ -1,0 +1,35 @@
+Pregunta 1: ¿Cuál de las siguientes opciones es un lenguaje de programación orientado a objetos?
+Respuesta 1: C++
+Respuesta 2: HTML
+Respuesta 3: SQL
+Respuesta Correcta: C++
+Resultado por Usuario: C++
+
+Pregunta 2: ¿Cuál de las siguientes opciones es un protocolo de Internet para enviar y recibir correos electrónicos?
+Respuesta 1: FTP
+Respuesta 2: SMTP
+Respuesta 3: HTTP
+Respuesta Correcta: SMTP
+Resultado por Usuario: FTP
+
+Pregunta 3: ¿Cuál de las siguientes opciones es un sistema operativo de código abierto?
+Respuesta 1: Windows
+Respuesta 2: macOS
+Respuesta 3: Linux
+Respuesta Correcta: Linux
+Resultado por Usuario: Windows
+
+Pregunta 4: ¿Cuál de las siguientes opciones es un tipo de almacenamiento en la nube?
+Respuesta 1: HDD
+Respuesta 2: SSD
+Respuesta 3: Dropbox
+Respuesta Correcta: Dropbox
+Resultado por Usuario: HDD
+
+Pregunta 5: ¿Cuál de las siguientes opciones es un lenguaje de marcado utilizado para crear páginas web?
+Respuesta 1: XML
+Respuesta 2: JSON
+Respuesta 3: CSS
+Respuesta Correcta: CSS
+Resultado por Usuario: XML
+
